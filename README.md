@@ -1,3 +1,5 @@
+## Hikati
+
 ## _Company overview_
 We are a small software company.  When not working on our own projects, we help companies get their software projects started or back on track.
 
